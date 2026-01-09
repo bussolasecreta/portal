@@ -1,0 +1,7 @@
+{
+  "name": "Bússola Secreta - Portal Estratégico",
+  "description": "Um portal moderno e sofisticado focado em estratégia, negócios e tendências de mercado, projetado para oferecer clareza intelectual e suporte à tomada de decisão.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
